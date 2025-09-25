@@ -1,0 +1,15 @@
+div.errmsg {
+    color:red;
+    font-size: large;
+    border:solid;
+    border-width:1px;
+    background-color:#ffeeee;
+}
+
+div.msg {
+    color:blue;
+    font-size:large;
+    border:solid;
+    border-width:1px;
+    background-color:#eeffff;
+}
